@@ -1,4 +1,9 @@
+FRUITS
 Apples
 Oranges
 Berries
 
+MEAT
+Pork
+Chicken
+Rabbit
