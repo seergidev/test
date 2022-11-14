@@ -18,3 +18,8 @@ Spinachs
 BEVERAGES
 Water
 Beer
+
+DAIRY
+Milk
+Eggs
+Yoghurt
