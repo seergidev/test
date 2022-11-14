@@ -7,3 +7,8 @@ MEAT
 Pork
 Chicken
 Rabbit
+
+VEGETABLES
+Lettuce
+Spinachs
+
