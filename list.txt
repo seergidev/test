@@ -12,3 +12,6 @@ VEGETABLES
 Lettuce
 Spinachs
 
+BEVERAGES
+Water
+Beer
